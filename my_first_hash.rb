@@ -39,7 +39,7 @@ def adding
 
 
   # return the shipping_manifest hash below
-hash["shipping_manifest"] = "shipping_manifest2"
 
-hash
+
+
 end
